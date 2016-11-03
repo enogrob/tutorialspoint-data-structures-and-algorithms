@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Tutorialspoint Sata Structures and Algorithms
+# Tutorialspoint Data Structures and Algorithms
 
 ![ebook cover](images/tutorialspoint-data-structures-and-algorithms.png)
 
@@ -15,66 +15,66 @@ This is to grasp rapidly the language and its concepts.
 
 #### Topics
 ```
-C++ Basics
-[ ] C++ Home
-[ ] C++ Overview
-[ ] C++ Environment Setup
-[ ] C++ Basic Syntax
-[ ] C++ Comments
-[ ] C++ Data Types
-[ ] C++ Variable Types
-[ ] C++ Variable Scope
-[ ] C++ Constants/Literals
-[ ] C++ Modifier Types
-[ ] C++ Storage Classes
-[ ] C++ Operators
-[ ] C++ Loop Types
-[ ] C++ Decision Making
-[ ] C++ Functions
-[ ] C++ Numbers
-[ ] C++ Arrays
-[ ] C++ Strings
-[ ] C++ Pointers
-[ ] C++ References
-[ ] C++ Date & Time
-[ ] C++ Basic Input/Output
-[ ] C++ Data Structures
-
-C++ Object Oriented
-[ ] C++ Classes & Objects
-[ ] C++ Inheritance
-[ ] C++ Overloading
-[ ] C++ Polymorphism
-[ ] C++ Abstraction
-[ ] C++ Encapsulation
-[ ] C++ Interfaces
-
-C++ Advanced
-[ ] C++ Files and Streams
-[ ] C++ Exception Handling
-[ ] C++ Dynamic Memory
-[ ] C++ Namespaces
-[ ] C++ Templates
-[ ] C++ Preprocessor
-[ ] C++ Signal Handling
-[ ] C++ Multithreading
-[ ] C++ Web Programming
-
-C++ Useful Resources
-[ ] C++ Questions and Answers
-[ ] C++ Quick Guide
-[ ] C++ Object Oriented
-[ ] C++ STL Tutorial
-[ ] C++ Standard Library
-[ ] C++ Useful Resources
-[ ] C++ Discussion
-
+Data Structures & Algorithms
+[x] Home
+[x] Overview
+[x] Environment Setup
+Algorithm
+[x] Algorithms Basics
+[x] Asymptotic Analysis
+[x] Greedy Algorithms
+[x] Divide and Conquer
+[x] Dynamic Programming
+Data Structures
+[x] Data Structure Basics
+[ ] Array Data Structure
+Linked Lists
+[ ] Linked List Basics
+[ ] Doubly Linked List
+[ ] Circular Linked List
+Stack & Queue
+[ ] Stack
+[ ] Expression Parsing
+[ ] Queue
+Searching Techniques
+[ ] Linear Search
+[ ] Binary Search
+[ ] Interpolation Search
+[ ] Hash Table
+Sorting Techniques
+[ ] Sorting Algorithms
+[ ] Bubble Sort
+[ ] Insertion Sort
+[ ] Selection Sort
+[ ] Merge Sort
+[ ] Shell Sort
+[ ] Quick Sort
+Graph Data Structure
+[ ] Graph Data Structure
+[ ] Depth First Traversal
+[ ] Breadth First Traversal
+Tree Data Structure
+[ ] Tree Data Structure
+[ ] Tree Traversal
+[ ] Binary Search Tree
+[ ] AVL Tree
+[ ] Spanning Tree
+[ ] Heap
+Recursion
+[ ] Recursion Basics
+[ ] Tower of Hanoi
+[ ] Fibonacci Series
+DSA Useful Resources
+[ ] Questions and Answers
+[ ] Quick Guide
+[ ] Useful Resources
+[ ] Discussion
 Selected Reading
 [ ] Developer's Best Practices
 [ ] Questions and Answers
 [ ] Effective Resume Writing
 [ ] HR Interview Questions
 [ ] Computer Glossary
-[ ] Who is Who 
+[ ] Who is Who
 ```
 
